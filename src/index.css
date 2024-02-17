@@ -1,0 +1,14 @@
+.yi{
+    text-decoration: none;
+    color: white;
+}
+.oi{
+    width: 18rem;
+}
+#carausel{
+    max-height: 500px;
+}
+.large-modal {
+    max-width: 90%;
+    margin: 0 auto;
+  }
